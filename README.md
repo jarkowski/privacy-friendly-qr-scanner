@@ -38,7 +38,7 @@ This app uses the help of the [ZXing Projekt](https://github.com/zxing).
 
 ## Data Backup
 
-You can use the [Privacy Friendly Backup app](https://github.com/SecUSo/privacy-friendly-backup) to backup and restore this application's data. This can also be used to migrate your data to a new phone.
+You can use the [Privacy Friendly Backup app](https://github.com/SecUSo/privacy-friendly-backup) to backup and restore this application's data. This can also be used to migrate your data to a new phone. Backups are important.
 
 ## Translation
 
